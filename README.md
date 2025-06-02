@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Siddardh</h1>
+<h1 align="center">Hi there 👋, I'm Siddardh Sivalanki</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F700&width=435&lines=Passionate+about+Web+Development;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
